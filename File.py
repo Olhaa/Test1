@@ -6,3 +6,4 @@ def check(text):
 
 print(check('abc') == False)
 print(check('abcdefghiklmnopqrstuvwxyz') == True)
+print(check('ABCDEFGHIJKLMNOPQRSTUVWXYZ') == True)
