@@ -1,2 +1,2 @@
 print(2**2)
-print(4**)
+print(6**2)
